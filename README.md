@@ -11,7 +11,7 @@ int main {
 }
 
 // I actually don't know c++ that well.
-// Derived from hello.cpp.
+// Derived from hello.cpp
 ```
 
 ## Links
