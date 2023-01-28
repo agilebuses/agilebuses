@@ -1,5 +1,3 @@
-# AgileBuses
-```c++
 #include <iostream>
 #include <string>
 
@@ -11,8 +9,3 @@ int main {
 }
 
 // I actually don't know c++ that well.
-// Derived from hello.cpp
-```
-
-## Links
-[Youtube](https://www.youtube.com/@agilebuses20)
