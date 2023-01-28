@@ -15,5 +15,4 @@ int main {
 ```
 
 ## Links
-[Youtube](https://www.youtube.com/@agilebuses20)  
-[Test link](https://www.google.com)
+[Youtube](https://www.youtube.com/@agilebuses20)
