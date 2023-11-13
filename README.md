@@ -14,7 +14,5 @@ int main {
 // Derived from hello.cpp
 ```
 
-## Links
-[Youtube](https://www.youtube.com/@agilebuses20)
 <hr>
 <img src="assets/abus.jpg">
