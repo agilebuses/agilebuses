@@ -14,5 +14,4 @@ int main {
 // Derived from hello.cpp
 ```
 
-<hr>
-<img src="assets/abus.jpg">
+If there are any issues with this description, do not hesitate to open an issue. Thanks, [AgileBuses](https://github.com/agilebuses)
